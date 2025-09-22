@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #fdfdfd;
+  color: #222;
+}
+.container {
+  max-width: 600px;
+  margin: 100px auto;
+  text-align: center;
+}
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+p {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+button {
+  background-color: #222;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
+.hidden {
+  display: none;
+}
+footer {
+  text-align: center;
+  margin-top: 80px;
+  font-size: 0.9em;
+  color: #888;
+}
